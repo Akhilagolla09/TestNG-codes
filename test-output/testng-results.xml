@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-04-19T15:09:56 IST" name="Suite" finished-at="2024-04-19T15:11:09 IST" duration-ms="72555">
+    <groups>
+    </groups>
+    <test started-at="2024-04-19T15:09:56 IST" name="Test" finished-at="2024-04-19T15:11:09 IST" duration-ms="72555">
+      <class name="Testcases.Magento_Test">
+        <test-method is-config="true" signature="openBrowser()[pri:0, instance:Testcases.Magento_Test@42b64ab8]" started-at="2024-04-19T15:09:29 IST" name="openBrowser" finished-at="2024-04-19T15:09:56 IST" duration-ms="27393" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method signature="Magento1(java.lang.String,java.lang.String)[pri:0, instance:Testcases.Magento_Test@42b64ab8]" started-at="2024-04-19T15:09:56 IST" name="Magento1" data-provider="getData" finished-at="2024-04-19T15:11:09 IST" duration-ms="72501" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[gollaakhila659@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[18701A0405#]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Magento1 -->
+      </class> <!-- Testcases.Magento_Test -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
